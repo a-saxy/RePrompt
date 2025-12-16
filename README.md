@@ -74,6 +74,8 @@ end_index = 1
 python defense.py
 ```
 ## Successful Defense Case
+For brevity, we only present a simplified example here. 
+More detailed experimental results and complete case study data can be found in the `data/` directory.
 
 ### Case :Defense Against DR Attack on LLaMA3-70B
 
