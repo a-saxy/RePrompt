@@ -29,7 +29,7 @@ genai.configure(api_key="your_gemini_api_key")
 Replace "your_xxx_api_key" with the actual API keys you obtained from the respective platforms.
 > ⚠️ **Warning:** This method is recommended **only for local development or testing**. **Never expose your API keys in public repositories or production environments.** For secure usage, consider loading keys from environment variables (this can be added later).
 
-## Using PRD to Detect Input Prompts
+## Using RePrompt to Detect Input Prompts
 
 ### Step 1: Load Input Prompts
 
