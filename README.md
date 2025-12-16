@@ -1,7 +1,7 @@
-PRD Detection Method
+RePrompt Detection Method
 ==============
 
-This guide explains how to use the **Prompt Reconstruction Detection (PRD)** method via the provided Python implementation.
+This guide explains how to use the **Prompt Reconstruction-based Detection (RePrompt)** method via the provided Python implementation.
 
 ## Setup
 
